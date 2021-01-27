@@ -141,9 +141,13 @@ var motions = [
 
 'This House believes that the Republican majority should/should not abandon the Contract with America and seek a consensual agenda.',
 
-'This House would/would not support Proposition 209.',
+'This House would not support Proposition 209.',
 
 'This House believes that the United States should/should not start a dialogue with the Front for the Islamic Salvation of Algeria.'
 
 
 ];
+
+
+
+module.exports = motions;
